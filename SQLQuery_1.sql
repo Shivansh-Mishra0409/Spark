@@ -1,1 +1,1 @@
-SELECT * FROM dbo.test2
+SELECT * FROM dbo.test3
